@@ -91,7 +91,7 @@ function Resume() {
                                     <div className="bg-gray-100 dark:bg-gray-800 shadow-sm p-4 rounded-md mb-4">
                                           <h2 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white uppercase">About Me</h2>
                                           <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                                                I am a skilled electrician with a focus on electrical wiring, installation, maintenance, and troubleshooting. I excel at working efficiently in a team environment and am passionate about delivering high-quality solutions.
+                                                Motivated and detail-oriented electrician with an ITI certification, seeking an entry-level position to apply my foundational knowledge of electrical systems, wiring, and maintenance. I am eager to contribute to a team, delivering reliable and safe electrical solutions, while growing professionally in the field.
                                           </p>
                                     </div>
 
@@ -114,15 +114,15 @@ function Resume() {
                                           <div className="space-y-3">
                                                 <div className="flex items-center space-x-2">
                                                       <GiGraduateCap size="28px" />
-                                                      <p className="text-lg text-gray-700 dark:text-gray-300">10th SSC - Vanita Vikash Vidyalaya (2016)</p>
+                                                      <p className="text-lg text-gray-700 dark:text-gray-300">10th SSC - Vanita Vikash Vidyalaya (2016)  - Grade: 56.20%</p>
                                                 </div>
                                                 <div className="flex items-center space-x-2">
                                                       <GiGraduateCap size="28px" />
-                                                      <p className="text-lg text-gray-700 dark:text-gray-300">12th HSC - Tulja Bhavani Jr College (2018)</p>
+                                                      <p className="text-lg text-gray-700 dark:text-gray-300">12th HSC - Tulja Bhavani Jr College (2018) - Grade: 56.31%</p>
                                                 </div>
                                                 <div className="flex items-center space-x-2">
                                                       <GiGraduateCap size="28px" />
-                                                      <p className="text-lg text-gray-700 dark:text-gray-300">ITI Diploma - Globus ITI Kamptee (2024) - Grade: 88%</p>
+                                                      <p className="text-lg text-gray-700 dark:text-gray-300">ITI Diploma - Globus ITI Kamptee (2024) - Grade: 85%</p>
                                                 </div>
                                           </div>
                                     </div>
@@ -139,9 +139,10 @@ function Resume() {
                                           </ul>
                                     </div>
 
+                                    <div className="page-break"></div>
 
                                     {/* Date & Faithfully Section */}
-                                    <div className="text-lg text-gray-700 dark:text-gray-300 mb-6 py-2 flex justify-between px-8">
+                                    <div className="text-lg text-gray-700 dark:text-gray-300 mb-6 py-2 my-2 flex justify-between px-8">
                                           <p>Date:{/* {new Date().toLocaleDateString('en-IN')} */}</p>
                                           <p>Faithfully</p>
 
